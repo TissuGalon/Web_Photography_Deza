@@ -418,7 +418,7 @@ h1,h2,h3,h4,h5,h6{
 h1, .h1{
     font-size: 32px;
 }
-h2, .h2,{
+h2, .h2{
     font-size: 28px;
 }
 h3, .h3{
@@ -5740,7 +5740,7 @@ section:hover .small-item-carousel .owl-next{
     position: absolute;
     top:0;
     left: 0;
-    background: #58bf44;
+    background: #926441;
     
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
